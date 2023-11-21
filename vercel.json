@@ -11,8 +11,12 @@
       "src": "/(.*)",
       "dest": "/"
     }
-  ]
+  ],
+  "env": {
+    "MONGO_URI": "mongodb+srv://kaurharshpt6:at7Cj448mRHfWL3V@cluster0.lhpadp1.mongodb.net/wallet?retryWrites=true&w=majority"
+  }
 }
+
 
   
   
